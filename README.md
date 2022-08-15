@@ -29,11 +29,11 @@ Users should be able to:
 
 #### Desktop design
 
-<img src=".images/desktop.png" alt="Desktop design"/>
+<img src="https://github.com/luizarilo/3-columns-preview-card/blob/master/images/desktop.png" alt="Desktop design"/>
 
 #### Mobile design
 
-<img src=".images/mobile.png" alt="Mobile design"/>
+<img src="https://github.com/luizarilo/3-columns-preview-card/blob/master/images/mobile.png" alt="Mobile design"/>
 
 ### Links
 
