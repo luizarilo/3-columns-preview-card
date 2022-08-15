@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My solution](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/hub/responsive-card-with-3-columns-using-css-flexbox-lmPwRfDN5p)
+- Live Site URL: [Netlify Site](https://3columns-card.netlify.app)
 
 ## My process
 
@@ -92,5 +92,5 @@ In future projects, I want to implement the use of JavaScript and DOM to try to 
 ## Author
 
 - Frontend Mentor - [@luizarilo](https://www.frontendmentor.io/profile/luizarilo)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-arilo)
+- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-arilo)
 
